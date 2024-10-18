@@ -4,20 +4,41 @@
   box-sizing: border-box;
 }
 
+html {
+  /* font-size: 10px; */
+  font-size: 62.5%; /* 10 / 16 = 0.625 = 62.5% */
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+  overflow-x: hidden;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 3rem;
+  max-width: 130rem;
+}
+
 .region-path {
   transition: all 0.3s;
+  transform-origin: center;
 }
 
 .region-path:hover {
-  fill: #14531d;
+  fill: #597d5e;
   cursor: pointer;
+  transform: scale(1.01);
 }
 
 .region-label-text {
-  font-family: sans-serif;
   stroke: none;
-  fill: black;
-  font-size: 15px;
+  fill: #161f18;
+  font-size: 1.2rem;
   font-weight: bold;
   text-anchor: middle;
   pointer-events: none;

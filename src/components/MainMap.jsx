@@ -1,16 +1,17 @@
 const MainMap = () => {
   return (
     <svg
+      className="main-map-svg"
       baseProfile="tiny"
       fill="#6f9c76"
-      height="1000"
       stroke="#ffffff"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth=".5"
       version="1.2"
       viewBox="0 0 1000 1000"
-      width="1000"
+      height="850"
+      width="850"
       xmlns="http://www.w3.org/2000/svg"
     >
       <g id="features">
