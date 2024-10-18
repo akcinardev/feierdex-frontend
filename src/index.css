@@ -24,6 +24,12 @@ body {
   max-width: 130rem;
 }
 
+.main-map-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .region-path {
   transition: all 0.3s;
   transform-origin: center;
@@ -32,13 +38,13 @@ body {
 .region-path:hover {
   fill: #597d5e;
   cursor: pointer;
-  transform: scale(1.01);
+  /* transform: scale(1.007); */
 }
 
 .region-label-text {
   stroke: none;
   fill: #161f18;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: bold;
   text-anchor: middle;
   pointer-events: none;
