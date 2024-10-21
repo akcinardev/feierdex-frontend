@@ -1,10 +1,12 @@
-import LandingPange from "./components/LandingPage";
+import Header from "./components/Header";
+import LandingPage from "./components/LandingPage";
 
 // import "./App.css";
 function App() {
   return (
     <>
-      <LandingPange />
+      <Header />
+      <LandingPage />
     </>
   );
 }

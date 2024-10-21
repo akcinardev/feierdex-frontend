@@ -1,3 +1,0 @@
-export function manipulateSVG() {
-  return "";
-}

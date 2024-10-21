@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import Header from "./Header";
 
 const DetailPage = () => {
   const { regionCode } = useParams();
@@ -31,77 +32,81 @@ const DetailPage = () => {
   }
 
   return (
-    <div className="container">
-      <h1 className="region-name">{regionData.name.de}</h1>
-      <div className="region-infos">
-        <p className="region-capital">
-          <strong>Hauptstadt:</strong> {regionData.info.capital}
-        </p>
-        <p className="region-population">
-          <strong>Bevölkerung:</strong> {regionData.info.population}
-        </p>
-        <p className="region-area">
-          <strong>Fläche:</strong> {regionData.info.area}
-        </p>
-        <p className="region-major-cities">
-          <strong>Größte Städte:</strong>{" "}
-          {regionData.info.major_cities.join(", ")}
-        </p>
-        <p className="region-landmarks">
-          <strong>Berühmte Sehenswürdigkeiten:</strong>{" "}
-          {regionData.info.famous_landmarks.map((landmark) => {
-            return landmark.en + ", ";
+    <>
+      <Header />
+      <div className="container">
+        <h1 className="region-name">{regionData.name.de}</h1>
+        <img className="region-flag" src={regionData.info.flag_url}></img>
+        <div className="region-infos">
+          <p className="region-capital">
+            <strong>Hauptstadt:</strong> {regionData.info.capital}
+          </p>
+          <p className="region-population">
+            <strong>Bevölkerung:</strong> {regionData.info.population}
+          </p>
+          <p className="region-area">
+            <strong>Fläche:</strong> {regionData.info.area}
+          </p>
+          <p className="region-major-cities">
+            <strong>Größte Städte:</strong>{" "}
+            {regionData.info.major_cities.join(", ")}
+          </p>
+          <p className="region-landmarks">
+            <strong>Berühmte Sehenswürdigkeiten:</strong>{" "}
+            {regionData.info.famous_landmarks.map((landmark) => {
+              return landmark.en + ", ";
+            })}
+          </p>
+        </div>
+        <p className="region-description">{regionData.info.description.de}</p>
+
+        <h2>Feiertage</h2>
+        <h3>Regionale</h3>
+        <ul className="region-holiday-list">
+          {regionData.regional_holidays.map((holiday, i) => {
+            return (
+              <li key={i} className="region-holiday-list-item">
+                <div>
+                  <h4 className="region-holiday-name">
+                    {i + 1}. {holiday.name.de}
+                  </h4>
+                </div>
+              </li>
+            );
           })}
-        </p>
+        </ul>
+
+        <h3>Bundesfeiertage</h3>
+        <ul className="region-holiday-list">
+          {regionData.countrywide_holidays.map((holiday, i) => {
+            return (
+              <li key={i} className="region-holiday-list-item">
+                <div>
+                  <h4 className="region-holiday-name">
+                    {i + 1}. {holiday.name.de}
+                  </h4>
+                </div>
+              </li>
+            );
+          })}
+        </ul>
+
+        <h2>Regionale Veranstaltungen</h2>
+        <ul className="region-event-list">
+          {regionData.events.map((event, i) => {
+            return (
+              <li key={i} className="region-holiday-list-item">
+                <div>
+                  <h4 className="region-event-name">
+                    {i + 1}. {event.name.de}
+                  </h4>
+                </div>
+              </li>
+            );
+          })}
+        </ul>
       </div>
-      <p className="region-description">{regionData.info.description.de}</p>
-
-      <h2>Feiertage</h2>
-      <h3>Regionale</h3>
-      <ul className="region-holiday-list">
-        {regionData.regional_holidays.map((holiday, i) => {
-          return (
-            <li key={i} className="region-holiday-list-item">
-              <div>
-                <h4 className="region-holiday-name">
-                  {i + 1}. {holiday.name.de}
-                </h4>
-              </div>
-            </li>
-          );
-        })}
-      </ul>
-
-      <h3>Bundesfeiertage</h3>
-      <ul className="region-holiday-list">
-        {regionData.countrywide_holidays.map((holiday, i) => {
-          return (
-            <li key={i} className="region-holiday-list-item">
-              <div>
-                <h4 className="region-holiday-name">
-                  {i + 1}. {holiday.name.de}
-                </h4>
-              </div>
-            </li>
-          );
-        })}
-      </ul>
-
-      <h2>Regionale Veranstaltungen</h2>
-      <ul className="region-event-list">
-        {regionData.events.map((event, i) => {
-          return (
-            <li key={i} className="region-holiday-list-item">
-              <div>
-                <h4 className="region-event-name">
-                  {i + 1}. {event.name.de}
-                </h4>
-              </div>
-            </li>
-          );
-        })}
-      </ul>
-    </div>
+    </>
   );
 };
 

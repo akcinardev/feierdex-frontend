@@ -1,11 +1,15 @@
+import LandingInfo from "./LandingInfo";
 import MainMap from "./MainMap";
 
-const LandingPange = () => {
+const LandingPage = () => {
   return (
-    <div className="container">
-      <MainMap height="900" width="900" />
+    <div className="container--wide">
+      <div className="grid">
+        <LandingInfo />
+        <MainMap height="850" width="850" />
+      </div>
     </div>
   );
 };
 
-export default LandingPange;
+export default LandingPage;
