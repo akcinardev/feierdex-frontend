@@ -39,5 +39,43 @@
         "de": "Eines der größten Clubfestivals Europas, das neue Musik präsentiert."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Hamburg is a city-state in northern Germany and one of the country's major port cities. Known for its rich maritime history, vibrant cultural scene, and diverse neighborhoods, Hamburg is an important economic center and a gateway to international trade.",
+      "de": "Hamburg ist ein Stadtstaat im Norden Deutschlands und eine der größten Hafenstädte des Landes. Die Stadt ist bekannt für ihre reiche maritime Geschichte, ihre lebendige Kulturszene und ihre vielfältigen Stadtviertel. Hamburg ist ein wichtiges Wirtschaftszentrum und ein Tor zum internationalen Handel."
+    },
+    "capital": "Hamburg",
+    "population": 1841179,
+    "area": "755 km²",
+    "official_language": "German",
+    "major_cities": ["Hamburg"],
+    "famous_landmarks": [
+      {
+        "en": "Miniatur Wunderland",
+        "de": "Miniatur Wunderland"
+      },
+      {
+        "en": "Elbphilharmonie",
+        "de": "Elbphilharmonie"
+      },
+      {
+        "en": "St. Michael's Church",
+        "de": "Hauptkirche St. Michaelis"
+      },
+      {
+        "en": "Hamburg Rathaus",
+        "de": "Hamburg Rathaus"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Hamburg is a major economic hub, particularly known for its port, which is one of the largest in Europe. The city has a diverse economy, including industries such as logistics, media, and aerospace.",
+      "de": "Hamburg ist ein wichtiges wirtschaftliches Zentrum, das insbesondere für seinen Hafen bekannt ist, der einer der größten in Europa ist. Die Stadt hat eine vielfältige Wirtschaft, zu der Branchen wie Logistik, Medien und Luftfahrt gehören."
+    },
+    "cultural_aspects": {
+      "en": "Hamburg boasts a rich cultural heritage, with numerous theaters, museums, and music venues. The city is famous for its vibrant nightlife, especially in the St. Pauli district, and hosts events like the Hamburg Harbor Birthday Festival.",
+      "de": "Hamburg hat ein reiches kulturelles Erbe mit zahlreichen Theatern, Museen und Musikveranstaltungsorten. Die Stadt ist bekannt für ihr lebhaftes Nachtleben, insbesondere im Stadtteil St. Pauli, und veranstaltet Ereignisse wie das Hamburger Hafengeburtstagsfest."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Hamburg.svg/800px-Flag_of_Hamburg.svg.png"
+  }
 }

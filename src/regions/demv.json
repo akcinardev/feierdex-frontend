@@ -39,5 +39,43 @@
         "de": "Ein Kunstfestival, das Musik, Theater und bildende Kunst in der Region präsentiert."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Mecklenburg-Vorpommern is a federal state located in northeastern Germany, known for its stunning coastline along the Baltic Sea and numerous lakes. The state boasts a rich cultural heritage and picturesque landscapes, making it a popular destination for tourists.",
+      "de": "Mecklenburg-Vorpommern ist ein Bundesland im Nordosten Deutschlands, das für seine atemberaubende Küste an der Ostsee und zahlreiche Seen bekannt ist. Das Bundesland zeichnet sich durch ein reiches kulturelles Erbe und malerische Landschaften aus, was es zu einem beliebten Ziel für Touristen macht."
+    },
+    "capital": "Schwerin",
+    "population": 1612155,
+    "area": "23184 km²",
+    "official_language": "German",
+    "major_cities": ["Schwerin", "Rostock", "Neubrandenbur", "Greifswald"],
+    "famous_landmarks": [
+      {
+        "en": "Schwerin Castle",
+        "de": "Schweriner Schloss"
+      },
+      {
+        "en": "Rostock University",
+        "de": "Universität Rostock"
+      },
+      {
+        "en": "Usedom Island",
+        "de": "Insel Usedom"
+      },
+      {
+        "en": "Warnemünde Beach",
+        "de": "Strand Warnemünde"
+      }
+    ],
+    "economic_highlights": {
+      "en": "The economy of Mecklenburg-Vorpommern is primarily driven by tourism, agriculture, and maritime industries. The state has a strong focus on renewable energy, particularly wind power.",
+      "de": "Die Wirtschaft Mecklenburg-Vorpommerns wird hauptsächlich von Tourismus, Landwirtschaft und maritimen Industrien getragen. Das Bundesland legt einen starken Fokus auf erneuerbare Energien, insbesondere Windenergie."
+    },
+    "cultural_aspects": {
+      "en": "Mecklenburg-Vorpommern is rich in cultural traditions, with many festivals celebrating its history and local crafts. The region is known for its charming seaside resorts, historical towns, and the annual Hanse Sail event in Rostock.",
+      "de": "Mecklenburg-Vorpommern hat eine reiche Kulturtradition mit vielen Festen, die seine Geschichte und lokalen Handwerke feiern. Die Region ist bekannt für ihre charmanten Seebäder, historischen Städte und das jährliche Hanse Sail-Event in Rostock."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Mecklenburg-Vorpommern.svg/800px-Flag_of_Mecklenburg-Vorpommern.svg.png"
+  }
 }

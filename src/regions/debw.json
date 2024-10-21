@@ -62,5 +62,43 @@
         "de": "Traditioneller Markt mit Kunsthandwerk, Essen und festlichen Dekorationen."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Baden-Württemberg is a state in southwestern Germany known for its diverse landscapes, ranging from the Black Forest to the Rhine River. It is recognized for its strong economy, particularly in the automotive and engineering sectors.",
+      "de": "Baden-Württemberg ist ein Bundesland im Südwesten Deutschlands, das für seine vielfältigen Landschaften bekannt ist, die vom Schwarzwald bis zum Rhein reichen. Es ist bekannt für seine starke Wirtschaft, insbesondere in den Bereichen Automobil und Ingenieurwesen."
+    },
+    "capital": "Stuttgart",
+    "population": 11069533,
+    "area": "35757 km²",
+    "official_language": "German",
+    "major_cities": ["Stuttgart", "Mannheim", "Karlsruhe", "Freiburg"],
+    "famous_landmarks": [
+      {
+        "en": "Neuschwanstein Castle",
+        "de": "Schloss Neuschwanstein"
+      },
+      {
+        "en": "Heidelberg Castle",
+        "de": "Schloss Heidelberg"
+      },
+      {
+        "en": "Black Forest",
+        "de": "Schwarzwald"
+      },
+      {
+        "en": "Lake Constance",
+        "de": "Bodensee"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Baden-Württemberg is home to automotive giants like Mercedes-Benz and Porsche, and it has a strong presence in the engineering and technology sectors.",
+      "de": "Baden-Württemberg ist die Heimat von Automobilriesen wie Mercedes-Benz und Porsche und hat eine starke Präsenz in den Bereichen Ingenieurwesen und Technologie."
+    },
+    "cultural_aspects": {
+      "en": "The state is famous for its wine regions, particularly in the Baden region, and is known for its traditional festivals, such as Oktoberfest and Fasching.",
+      "de": "Das Bundesland ist berühmt für seine Weinregionen, insbesondere in der Region Baden, und bekannt für seine traditionellen Feste wie das Oktoberfest und den Fasching."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Baden-W%C3%BCrttemberg.svg/800px-Flag_of_Baden-W%C3%BCrttemberg.svg.png"
+  }
 }

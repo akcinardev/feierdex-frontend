@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "/regions/:regionCode",
+    path: "/:regionCode",
     element: <DetailPage />,
   },
 ]);

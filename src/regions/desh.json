@@ -39,5 +39,43 @@
         "de": "Ein jährliches Festival mit klassischen Konzerten, die an verschiedenen Orten in der Region stattfinden."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Schleswig-Holstein is the northernmost federal state in Germany, bordered by the North Sea and the Baltic Sea. Known for its stunning coastlines, islands, and diverse landscapes, it is a popular destination for water sports and outdoor activities.",
+      "de": "Schleswig-Holstein ist das nördlichste Bundesland Deutschlands, das an die Nordsee und die Ostsee grenzt. Bekannt für seine atemberaubenden Küsten, Inseln und vielfältigen Landschaften ist es ein beliebtes Ziel für Wassersport und Outdoor-Aktivitäten."
+    },
+    "capital": "Kiel",
+    "population": 2900000,
+    "area": "15800 km²",
+    "official_language": "German",
+    "major_cities": ["Kiel", "Lübeck", "Flensburg", "Neumünster"],
+    "famous_landmarks": [
+      {
+        "en": "Kiel Canal",
+        "de": "Nord-Ostsee-Kanal"
+      },
+      {
+        "en": "Lübeck's Old Town",
+        "de": "Altstadt Lübeck"
+      },
+      {
+        "en": "Sylt Island",
+        "de": "Insel Sylt"
+      },
+      {
+        "en": "Schleswig Cathedral",
+        "de": "Schleswig Dom"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Schleswig-Holstein has a mixed economy with strong sectors in agriculture, tourism, and renewable energy. The state is also known for its shipbuilding industry and maritime services, benefiting from its strategic location.",
+      "de": "Schleswig-Holstein hat eine gemischte Wirtschaft mit starken Sektoren in der Landwirtschaft, dem Tourismus und der erneuerbaren Energie. Das Bundesland ist auch für seine Schiffbauindustrie und maritimen Dienstleistungen bekannt, die von seiner strategischen Lage profitieren."
+    },
+    "cultural_aspects": {
+      "en": "The state is rich in cultural traditions, with numerous festivals celebrating maritime heritage and local customs. Schleswig-Holstein is famous for its music festivals, including the Schleswig-Holstein Music Festival, and its unique regional cuisine.",
+      "de": "Das Bundesland hat eine reiche Kulturtradition mit zahlreichen Festivals, die das maritime Erbe und lokale Bräuche feiern. Schleswig-Holstein ist berühmt für seine Musikfestivals, darunter das Schleswig-Holstein Musik Festival, und seine einzigartige regionale Küche."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Schleswig-Holstein.svg/800px-Flag_of_Schleswig-Holstein.svg.png"
+  }
 }

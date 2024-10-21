@@ -39,5 +39,43 @@
         "de": "Ein bezaubernder Weihnachtsmarkt in der mittelalterlichen Stadt Quedlinburg."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Sachsen-Anhalt is a federal state located in central Germany, known for its rich history and cultural heritage. It is home to many UNESCO World Heritage sites, including the towns of Wittenberg and Quedlinburg, and features beautiful landscapes with the Harz mountains and the Elbe River.",
+      "de": "Sachsen-Anhalt ist ein Bundesland im zentralen Deutschland, das für seine reiche Geschichte und sein kulturelles Erbe bekannt ist. Es beherbergt viele UNESCO-Weltkulturerbestätten, darunter die Städte Wittenberg und Quedlinburg, und bietet schöne Landschaften mit dem Harzgebirge und der Elbe."
+    },
+    "capital": "Magdeburg",
+    "population": 2200000,
+    "area": "20447 km²",
+    "official_language": "German",
+    "major_cities": ["Magdeburg", "Halle", "Dessau", "Wittenberg"],
+    "famous_landmarks": [
+      {
+        "en": "Wittenberg Castle Church",
+        "de": "Schlosskirche Wittenberg"
+      },
+      {
+        "en": "Quedlinburg Castle",
+        "de": "Burg Quedlinburg"
+      },
+      {
+        "en": "Magdeburg Cathedral",
+        "de": "Magdeburger Dom"
+      },
+      {
+        "en": "The Garden Kingdom of Dessau-Wörlitz",
+        "de": "Gartenreich Dessau-Wörlitz"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Sachsen-Anhalt has a diverse economy, with key sectors in manufacturing, agriculture, and renewable energy. The state is known for its production of machinery, chemicals, and food processing, along with a growing focus on sustainable practices.",
+      "de": "Sachsen-Anhalt hat eine vielfältige Wirtschaft mit wichtigen Sektoren in der Industrie, Landwirtschaft und erneuerbaren Energien. Das Bundesland ist bekannt für die Produktion von Maschinen, Chemikalien und Lebensmittelverarbeitung, mit einem wachsenden Fokus auf nachhaltige Praktiken."
+    },
+    "cultural_aspects": {
+      "en": "Sachsen-Anhalt is rich in cultural history, with numerous festivals, museums, and theaters celebrating its heritage. The state is particularly famous for its contributions to classical music and literature, with figures like Johann Sebastian Bach having strong ties to the region.",
+      "de": "Sachsen-Anhalt hat eine reiche Kulturgeschichte mit zahlreichen Festivals, Museen und Theatern, die sein Erbe feiern. Das Bundesland ist besonders bekannt für seine Beiträge zur klassischen Musik und Literatur, wobei Figuren wie Johann Sebastian Bach enge Verbindungen zur Region haben."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_Saxony-Anhalt.svg/800px-Flag_of_Saxony-Anhalt.svg.png"
+  }
 }

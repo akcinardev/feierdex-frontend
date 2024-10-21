@@ -11,7 +11,7 @@ const MainMap = ({ width = "900", height = "900" }) => {
       const targetId = e.target.id.toString().toLowerCase();
       if (targetId) {
         // navigate(`/${targetId}`);
-        navigate(`/regions/${targetId}`);
+        navigate(`/${targetId}`);
       }
     };
 

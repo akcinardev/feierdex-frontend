@@ -39,5 +39,43 @@
         "de": "Ein Fest, das lokale Weine mit Verkostungen und Live-Musik feiert."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Hessen is a federal state located in central Germany, known for its economic strength, particularly in finance and industry. The state features a mix of urban centers and beautiful natural landscapes, including the Rhine Valley and the Taunus Mountains.",
+      "de": "Hessen ist ein Bundesland im Zentrum Deutschlands, das für seine wirtschaftliche Stärke, insbesondere im Finanz- und Industriesektor, bekannt ist. Das Bundesland zeichnet sich durch eine Mischung aus urbanen Zentren und schönen Naturlandschaften aus, darunter das Rheintal und das Taunusgebirge."
+    },
+    "capital": "Wiesbaden",
+    "population": 6265800,
+    "area": "21114 km²",
+    "official_language": "German",
+    "major_cities": ["Frankfurt", "Wiesbaden", "Darmstadt", "Kassel"],
+    "famous_landmarks": [
+      {
+        "en": "Frankfurt Skyline",
+        "de": "Frankfurter Skyline"
+      },
+      {
+        "en": "Lorelei Rock",
+        "de": "Loreley"
+      },
+      {
+        "en": "Burg Eltz",
+        "de": "Burg Eltz"
+      },
+      {
+        "en": "Palmengarten",
+        "de": "Palmengarten"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Hessen is an economic powerhouse, home to Frankfurt, which is a major financial center in Europe. The state has a diverse economy with strengths in finance, technology, and manufacturing.",
+      "de": "Hessen ist eine wirtschaftliche Hochburg und beherbergt Frankfurt, das ein wichtiges Finanzzentrum in Europa ist. Das Bundesland hat eine vielfältige Wirtschaft mit Stärken in den Bereichen Finanzen, Technologie und Fertigung."
+    },
+    "cultural_aspects": {
+      "en": "Hessen boasts a rich cultural scene, with numerous museums, theaters, and festivals. The state is also known for its wine regions, particularly along the Rhine River, and for its traditional festivals such as the Wiesbaden Wine Festival.",
+      "de": "Hessen bietet eine reiche Kulturszene mit zahlreichen Museen, Theatern und Festivals. Das Bundesland ist auch für seine Weinregionen, insbesondere entlang des Rheins, sowie für traditionelle Feste wie das Wiesbadener Weinfest bekannt."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_Hesse.svg/800px-Flag_of_Hesse.svg.png"
+  }
 }

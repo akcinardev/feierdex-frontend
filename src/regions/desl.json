@@ -39,5 +39,43 @@
         "de": "Eine Veranstaltung, die die verschiedenen Kulturen im Saarland durch Essen, Musik und Tanz präsentiert."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Saarland is a small federal state located in southwestern Germany, bordering France. Known for its rich industrial history and diverse landscapes, it features a mix of urban and natural attractions, making it a unique region in Germany.",
+      "de": "Saarland ist ein kleines Bundesland im Südwesten Deutschlands, das an Frankreich grenzt. Bekannt für seine reiche Industriegeschichte und vielfältige Landschaften bietet es eine Mischung aus städtischen und natürlichen Attraktionen, die es zu einer einzigartigen Region in Deutschland machen."
+    },
+    "capital": "Saarbrücken",
+    "population": 990000,
+    "area": "2569 km²",
+    "official_language": "German",
+    "major_cities": ["Saarbrücken", "Neunkirchen", "Homburg", "Völklingen"],
+    "famous_landmarks": [
+      {
+        "en": "Völklinger Hütte",
+        "de": "Völklinger Hütte"
+      },
+      {
+        "en": "Saarland Museum",
+        "de": "Saarland Museum"
+      },
+      {
+        "en": "Saarburg Castle",
+        "de": "Burg Saarburg"
+      },
+      {
+        "en": "Biosphere Reserve Bliesgau",
+        "de": "Biosphärenreservat Bliesgau"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Saarland's economy has historically been driven by coal and steel industries, although it has diversified into technology, automotive, and services in recent years. The region is focusing on sustainable development and innovation.",
+      "de": "Die Wirtschaft des Saarlandes wurde historisch durch die Kohle- und Stahlindustrie geprägt, hat sich jedoch in den letzten Jahren in die Bereiche Technologie, Automobilindustrie und Dienstleistungen diversifiziert. Die Region konzentriert sich auf nachhaltige Entwicklung und Innovation."
+    },
+    "cultural_aspects": {
+      "en": "Saarland has a rich cultural scene, influenced by its proximity to France. The state is known for its culinary traditions, festivals, and art exhibitions. Events like the Saarland Wine Festival celebrate its local produce and heritage.",
+      "de": "Das Saarland hat eine reiche Kulturszene, die von seiner Nähe zu Frankreich beeinflusst ist. Das Bundesland ist bekannt für seine kulinarischen Traditionen, Festivals und Kunstausstellungen. Veranstaltungen wie das Saarland Weinfest feiern die lokalen Produkte und das Erbe."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saarland.svg/800px-Flag_of_Saarland.svg.png"
+  }
 }

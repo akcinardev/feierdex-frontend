@@ -62,5 +62,43 @@
         "de": "Traditioneller Markt mit lokalen Handwerken, Essen und festlichen Aktivitäten."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Bavaria, or Bayern, is the largest federal state in Germany, located in the southeastern part of the country. Known for its picturesque landscapes, ranging from the Bavarian Alps to rolling hills and lakes, it is also famous for its rich cultural traditions and historical heritage.",
+      "de": "Bayern ist das größte Bundesland Deutschlands und liegt im Südosten des Landes. Es ist bekannt für seine malerischen Landschaften, die von den Bayerischen Alpen bis zu sanften Hügeln und Seen reichen, sowie für seine reichen kulturellen Traditionen und historischen Erbe."
+    },
+    "capital": "Munich",
+    "population": 13124737,
+    "area": "70542 km²",
+    "official_language": "German",
+    "major_cities": ["Munich", "Nuremberg", "Augsburg", "Regensburg"],
+    "famous_landmarks": [
+      {
+        "en": "Neuschwanstein Castle",
+        "de": "Schloss Neuschwanstein"
+      },
+      {
+        "en": "Marienplatz",
+        "de": "Marienplatz"
+      },
+      {
+        "en": "Zugspitze",
+        "de": "Zugspitze"
+      },
+      {
+        "en": "Nymphenburg Palace",
+        "de": "Schloss Nymphenburg"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Bavaria has one of the strongest economies in Germany, driven by industries such as automotive, aerospace, and electronics. The state is home to major companies like BMW, Siemens, and Audi, as well as a thriving agricultural sector.",
+      "de": "Bayern hat eine der stärksten Volkswirtschaften Deutschlands, die von Industrien wie der Automobilindustrie, der Luft- und Raumfahrt sowie der Elektronik geprägt ist. Das Bundesland ist die Heimat großer Unternehmen wie BMW, Siemens und Audi sowie eines florierenden Agrarsektors."
+    },
+    "cultural_aspects": {
+      "en": "Bavaria is renowned for its cultural traditions, including Oktoberfest, the world's largest beer festival, and its distinctive Bavarian music, dance, and cuisine. The state also has a rich history of castles and palaces, reflecting its royal past.",
+      "de": "Bayern ist berühmt für seine kulturellen Traditionen, darunter das Oktoberfest, das größte Bierfest der Welt, sowie für seine charakteristische bayerische Musik, Tänze und Küche. Das Bundesland hat auch eine reiche Geschichte an Schlössern und Burgen, die sein königliches Erbe widerspiegeln."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Bavaria_%28lozengy%29.svg/800px-Flag_of_Bavaria_%28lozengy%29.svg.png"
+  }
 }

@@ -39,5 +39,43 @@
         "de": "Ein Kulturfestival, das die Kunst und Musik der Region Münsterland feiert."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Nordrhein-Westfalen, or North Rhine-Westphalia, is the most populous federal state in Germany, located in the western part of the country. Known for its industrial heritage, vibrant cities, and cultural diversity, it plays a crucial role in Germany's economy and politics.",
+      "de": "Nordrhein-Westfalen ist das bevölkerungsreichste Bundesland Deutschlands und liegt im westlichen Teil des Landes. Es ist bekannt für sein industrielles Erbe, seine lebhaften Städte und kulturelle Vielfalt und spielt eine entscheidende Rolle in der deutschen Wirtschaft und Politik."
+    },
+    "capital": "Düsseldorf",
+    "population": 17932651,
+    "area": "34085 km²",
+    "official_language": "German",
+    "major_cities": ["Düsseldorf", "Cologne", "Dortmund", "Essen"],
+    "famous_landmarks": [
+      {
+        "en": "Cologne Cathedral",
+        "de": "Kölner Dom"
+      },
+      {
+        "en": "Neanderthal Museum",
+        "de": "Neanderthal Museum"
+      },
+      {
+        "en": "Burg Altena",
+        "de": "Burg Altena"
+      },
+      {
+        "en": "Düsseldorf's Old Town",
+        "de": "Altstadt Düsseldorf"
+      }
+    ],
+    "economic_highlights": {
+      "en": "North Rhine-Westphalia has a highly diversified economy, known for its strong industrial base, including steel, machinery, and chemicals. The region is also a leader in services and innovation, with many startups and research institutions.",
+      "de": "Nordrhein-Westfalen hat eine hoch diversifizierte Wirtschaft, die für ihre starke industrielle Basis, einschließlich Stahl, Maschinenbau und Chemie, bekannt ist. Die Region ist auch führend in den Bereichen Dienstleistungen und Innovation, mit vielen Startups und Forschungseinrichtungen."
+    },
+    "cultural_aspects": {
+      "en": "The state is culturally rich, hosting a variety of museums, theaters, and music festivals. Famous events like the Carnival in Cologne and the Ruhrtriennale highlight its vibrant cultural life, making it a hub for arts and entertainment.",
+      "de": "Das Bundesland hat eine reiche Kultur und beherbergt eine Vielzahl von Museen, Theatern und Musikfestivals. Berühmte Veranstaltungen wie der Karneval in Köln und die Ruhrtriennale zeigen das lebendige Kulturleben und machen es zu einem Zentrum für Kunst und Unterhaltung."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_North_Rhine-Westphalia.svg/800px-Flag_of_North_Rhine-Westphalia.svg.png"
+  }
 }

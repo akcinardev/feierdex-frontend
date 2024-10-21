@@ -39,5 +39,43 @@
         "de": "Ein jährlich in Rudolstadt stattfindendes Weltmusikfestival, das vielfältige Musikgenres präsentiert."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Thüringen, or Thuringia, is a federal state located in central Germany, known for its beautiful landscapes, including the Thuringian Forest. Rich in history and culture, it is famous for its medieval towns, castles, and the legacy of renowned figures such as Johann Wolfgang von Goethe.",
+      "de": "Thüringen ist ein Bundesland im zentralen Deutschland, das für seine schönen Landschaften, einschließlich des Thüringer Waldes, bekannt ist. Reich an Geschichte und Kultur, ist es berühmt für seine mittelalterlichen Städte, Burgen und das Erbe berühmter Persönlichkeiten wie Johann Wolfgang von Goethe."
+    },
+    "capital": "Erfurt",
+    "population": 2200000,
+    "area": "16102 km²",
+    "official_language": "German",
+    "major_cities": ["Erfurt", "Jena", "Weimar", "Gera"],
+    "famous_landmarks": [
+      {
+        "en": "Erfurt Cathedral",
+        "de": "Erfurter Dom"
+      },
+      {
+        "en": "Bach Museum in Eisenach",
+        "de": "Bachhaus Eisenach"
+      },
+      {
+        "en": "Wartburg Castle",
+        "de": "Wartburg"
+      },
+      {
+        "en": "Goethe National Museum",
+        "de": "Goethe-Nationalmuseum"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Thüringen has a diverse economy with strengths in manufacturing, optics, and renewable energy. The state is known for its precision engineering and the production of musical instruments, along with a growing focus on technology and innovation.",
+      "de": "Thüringen hat eine vielfältige Wirtschaft mit Stärken in der Industrie, Optik und erneuerbaren Energien. Das Bundesland ist bekannt für seine Präzisionsmechanik und die Herstellung von Musikinstrumenten, mit einem wachsenden Fokus auf Technologie und Innovation."
+    },
+    "cultural_aspects": {
+      "en": "Thüringen is rich in cultural heritage, home to many festivals, museums, and theaters. The state celebrates its literary heritage through events like the Weimar Arts Festival and is known for its culinary specialties, including Thüringer Bratwurst.",
+      "de": "Thüringen hat ein reiches kulturelles Erbe und beherbergt viele Festivals, Museen und Theater. Das Bundesland feiert sein literarisches Erbe durch Veranstaltungen wie das Weimarer Kunstfest und ist bekannt für seine kulinarischen Spezialitäten, darunter die Thüringer Bratwurst."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Thuringia.svg/800px-Flag_of_Thuringia.svg.png"
+  }
 }

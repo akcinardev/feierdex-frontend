@@ -40,5 +40,43 @@
         "de": "Eines der größten Weinfeste in Deutschland, das jährlich in Bad Dürkheim stattfindet."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Rheinland-Pfalz is a federal state located in southwestern Germany, known for its picturesque vineyards, the scenic Rhine River, and its rich history. The state is famous for its wine production, especially Riesling, and charming medieval castles.",
+      "de": "Rheinland-Pfalz ist ein Bundesland im Südwesten Deutschlands, das für seine malerischen Weinberge, den malerischen Rhein und seine reiche Geschichte bekannt ist. Das Bundesland ist berühmt für seine Weinproduktion, insbesondere Riesling, und seine charmanten mittelalterlichen Burgen."
+    },
+    "capital": "Mainz",
+    "population": 4092500,
+    "area": "19854 km²",
+    "official_language": "German",
+    "major_cities": ["Mainz", "Ludwigshafen", "Trier", "Koblenz"],
+    "famous_landmarks": [
+      {
+        "en": "Eltz Castle",
+        "de": "Burg Eltz"
+      },
+      {
+        "en": "Mainz Cathedral",
+        "de": "Mainzer Dom"
+      },
+      {
+        "en": "Marksburg Castle",
+        "de": "Marksburg"
+      },
+      {
+        "en": "Trier Roman Monuments",
+        "de": "Römische Baudenkmäler Trier"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Rheinland-Pfalz has a diverse economy, primarily driven by the wine industry, manufacturing, and services. The state is also known for its pharmaceutical and chemical industries, with major companies having their headquarters here.",
+      "de": "Rheinland-Pfalz hat eine vielfältige Wirtschaft, die hauptsächlich von der Weinindustrie, der Fertigung und den Dienstleistungen geprägt ist. Das Bundesland ist auch für seine pharmazeutischen und chemischen Industrien bekannt, in denen große Unternehmen ihren Hauptsitz haben."
+    },
+    "cultural_aspects": {
+      "en": "Rheinland-Pfalz is rich in cultural heritage, with numerous festivals celebrating wine, history, and traditions. The state hosts events like the Rhineland-Palatinate Wine Festival and is home to many historical sites, showcasing its medieval roots.",
+      "de": "Rheinland-Pfalz hat ein reiches kulturelles Erbe mit zahlreichen Festivals, die Wein, Geschichte und Traditionen feiern. Das Bundesland veranstaltet Events wie das Rheinland-Pfälzische Weinfest und beherbergt viele historische Stätten, die seine mittelalterlichen Wurzeln zeigen."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Rhineland-Palatinate.svg/800px-Flag_of_Rhineland-Palatinate.svg.png"
+  }
 }

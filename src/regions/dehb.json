@@ -28,5 +28,43 @@
         "de": "Ein festlicher Markt mit Kunsthandwerk, Essen und Weihnachtsdekorationen."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Bremen is the smallest federal state in Germany, consisting of the cities of Bremen and Bremerhaven, located in the northwestern part of the country. The state is known for its maritime heritage, historic architecture, and its important role as a trading and logistics hub.",
+      "de": "Bremen ist das kleinste Bundesland Deutschlands und besteht aus den Städten Bremen und Bremerhaven, die im Nordwesten des Landes liegen. Das Bundesland ist bekannt für sein maritimes Erbe, seine historische Architektur und seine bedeutende Rolle als Handels- und Logistikzentrum."
+    },
+    "capital": "Bremen",
+    "population": 676463,
+    "area": "419 km²",
+    "official_language": "German",
+    "major_cities": ["Bremen", "Bremerhaven"],
+    "famous_landmarks": [
+      {
+        "en": "Bremen Town Musicians",
+        "de": "Bremer Stadtmusikanten"
+      },
+      {
+        "en": "Bremen Cathedral",
+        "de": "Bremer Dom"
+      },
+      {
+        "en": "Schnoor Quarter",
+        "de": "Schnoorviertel"
+      },
+      {
+        "en": "Klimahaus Bremerhaven",
+        "de": "Klimahaus Bremerhaven"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Bremen's economy is characterized by its ports and maritime industries, with Bremerhaven serving as one of Europe's most important container terminals. The state also has a strong presence in aerospace, automotive, and food processing industries.",
+      "de": "Die Wirtschaft Bremens ist geprägt von seinen Häfen und der maritimen Industrie, wobei Bremerhaven als eines der wichtigsten Containerterminals Europas gilt. Das Bundesland hat zudem eine starke Präsenz in den Bereichen Luft- und Raumfahrt, Automobilindustrie und Lebensmittelverarbeitung."
+    },
+    "cultural_aspects": {
+      "en": "Bremen is known for its rich cultural history, including the famous story of the Bremen Town Musicians from the Brothers Grimm. The city hosts various cultural festivals and events, and its historical buildings, such as the UNESCO-listed Town Hall and Roland statue, are popular attractions.",
+      "de": "Bremen ist bekannt für seine reiche Kulturgeschichte, darunter die berühmte Geschichte der Bremer Stadtmusikanten der Brüder Grimm. Die Stadt veranstaltet verschiedene Kulturfestivals und -events, und ihre historischen Gebäude, wie das zum UNESCO-Welterbe gehörende Rathaus und die Rolandstatue, sind beliebte Sehenswürdigkeiten."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Bremen.svg/800px-Flag_of_Bremen.svg.png"
+  }
 }

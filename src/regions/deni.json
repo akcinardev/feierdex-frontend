@@ -28,5 +28,43 @@
         "de": "Ein festlicher Markt mit Kunsthandwerk, Essen und Weihnachtsdekorationen."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Niedersachsen, or Lower Saxony, is a federal state located in northwestern Germany. Known for its diverse landscapes, including the North Sea coast and the Lüneburg Heath, it is also home to significant historical sites and a vibrant economy.",
+      "de": "Niedersachsen ist ein Bundesland im Nordwesten Deutschlands. Es ist bekannt für seine vielfältigen Landschaften, einschließlich der Nordseeküste und der Lüneburger Heide, und beherbergt bedeutende historische Stätten sowie eine lebendige Wirtschaft."
+    },
+    "capital": "Hanover",
+    "population": 8000000,
+    "area": "47645 km²",
+    "official_language": "German",
+    "major_cities": ["Hanover", "Braunschweig", "Oldenburg", "Osnabrück"],
+    "famous_landmarks": [
+      {
+        "en": "Herrenhausen Gardens",
+        "de": "Herrenhäuser Gärten"
+      },
+      {
+        "en": "Weser River",
+        "de": "Weser"
+      },
+      {
+        "en": "Burg Wilhelmshöhe",
+        "de": "Burg Wilhelmshöhe"
+      },
+      {
+        "en": "Lüneburg Heath",
+        "de": "Lüneburger Heide"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Niedersachsen has a strong economy, driven by agriculture, automotive, and aerospace industries. It is home to major companies such as Volkswagen and has a significant agricultural sector, known for producing various crops and livestock.",
+      "de": "Niedersachsen hat eine starke Wirtschaft, die von der Landwirtschaft, der Automobil- und der Luftfahrtindustrie geprägt ist. Es beherbergt große Unternehmen wie Volkswagen und hat einen bedeutenden Agrarsektor, der für die Produktion verschiedener Pflanzen und Vieh bekannt ist."
+    },
+    "cultural_aspects": {
+      "en": "Niedersachsen boasts a rich cultural heritage with numerous museums, theaters, and festivals. The state is known for its traditional crafts, vibrant folk traditions, and events such as the Hanover Fair, one of the world's largest industrial fairs.",
+      "de": "Niedersachsen hat ein reiches kulturelles Erbe mit zahlreichen Museen, Theatern und Festivals. Das Bundesland ist bekannt für seine traditionellen Handwerke, lebendige Folklore und Veranstaltungen wie die Hannover Messe, eine der größten Industriemessen der Welt."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Lower_Saxony.svg/800px-Flag_of_Lower_Saxony.svg.png"
+  }
 }

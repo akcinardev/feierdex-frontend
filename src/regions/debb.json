@@ -28,5 +28,48 @@
         "de": "Ein lokales Filmfestival, das unabhängige Filme und Filmemacher präsentiert."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Brandenburg is a state in northeastern Germany that surrounds the capital city of Berlin. It is known for its natural landscapes, including many lakes, rivers, and forests, as well as its rich history dating back to the medieval period.",
+      "de": "Brandenburg ist ein Bundesland im Nordosten Deutschlands, das die Hauptstadt Berlin umgibt. Es ist bekannt für seine natürlichen Landschaften, darunter viele Seen, Flüsse und Wälder, sowie seine reiche Geschichte, die bis ins Mittelalter zurückreicht."
+    },
+    "capital": "Potsdam",
+    "population": 2534050,
+    "area": "29478 km²",
+    "official_language": "German",
+    "major_cities": [
+      "Potsdam",
+      "Cottbus",
+      "Brandenburg an der Havel",
+      "Frankfurt (Oder)"
+    ],
+    "famous_landmarks": [
+      {
+        "en": "Sanssouci Palace",
+        "de": "Schloss Sanssouci"
+      },
+      {
+        "en": "Spreewald Biosphere Reserve",
+        "de": "Biosphärenreservat Spreewald"
+      },
+      {
+        "en": "Brandenburg Gate (Potsdam)",
+        "de": "Brandenburger Tor (Potsdam)"
+      },
+      {
+        "en": "Rheinsberg Palace",
+        "de": "Schloss Rheinsberg"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Brandenburg's economy is diverse, with strengths in renewable energy, tourism, and logistics due to its proximity to Berlin and location within the European transport network.",
+      "de": "Die Wirtschaft Brandenburgs ist vielfältig, mit Stärken in den Bereichen erneuerbare Energien, Tourismus und Logistik, bedingt durch die Nähe zu Berlin und die Lage im europäischen Verkehrsnetz."
+    },
+    "cultural_aspects": {
+      "en": "Brandenburg is known for its cultural heritage, with numerous palaces and gardens, including those in Potsdam, a UNESCO World Heritage site. The state also has a rich tradition of local festivals and outdoor activities.",
+      "de": "Brandenburg ist bekannt für sein kulturelles Erbe, darunter zahlreiche Schlösser und Gärten, insbesondere in Potsdam, das zum UNESCO-Welterbe gehört. Das Bundesland hat zudem eine reiche Tradition an lokalen Festen und Outdoor-Aktivitäten."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Brandenburg.svg/800px-Flag_of_Brandenburg.svg.png"
+  }
 }

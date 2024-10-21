@@ -39,5 +39,43 @@
         "de": "Eine jährliche Veranstaltung, die zeitgenössische Kunst in Galerien und Institutionen zeigt."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Berlin is the capital city and a federal state of Germany, located in the northeastern part of the country. Known for its rich history, vibrant cultural scene, and as a hub for politics, media, and science, Berlin is one of Europe's most dynamic cities.",
+      "de": "Berlin ist die Hauptstadt und ein Bundesland Deutschlands, gelegen im Nordosten des Landes. Die Stadt ist bekannt für ihre reiche Geschichte, eine lebendige Kulturszene und als Zentrum für Politik, Medien und Wissenschaft. Berlin gehört zu den dynamischsten Städten Europas."
+    },
+    "capital": "Berlin",
+    "population": 3669491,
+    "area": "891.8 km²",
+    "official_language": "German",
+    "major_cities": ["Berlin"],
+    "famous_landmarks": [
+      {
+        "en": "Brandenburg Gate",
+        "de": "Brandenburger Tor"
+      },
+      {
+        "en": "Berlin Television Tower",
+        "de": "Berliner Fernsehturm"
+      },
+      {
+        "en": "Berlin Wall Memorial",
+        "de": "Gedenkstätte Berliner Mauer"
+      },
+      {
+        "en": "Reichstag Building",
+        "de": "Reichstagsgebäude"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Berlin has a growing economy driven by technology startups, creative industries, and tourism. As Germany's capital, it is also an important center for government and international relations.",
+      "de": "Berlin hat eine wachsende Wirtschaft, die von Technologie-Startups, Kreativindustrien und Tourismus angetrieben wird. Als Hauptstadt Deutschlands ist es zudem ein wichtiges Zentrum für Regierung und internationale Beziehungen."
+    },
+    "cultural_aspects": {
+      "en": "Berlin is known for its diverse cultural life, with numerous museums, galleries, and theaters, including the Museum Island, a UNESCO World Heritage site. The city is famous for its nightlife, music scene, and annual events like the Berlin International Film Festival (Berlinale).",
+      "de": "Berlin ist bekannt für sein vielfältiges kulturelles Leben mit zahlreichen Museen, Galerien und Theatern, darunter die Museumsinsel, die zum UNESCO-Welterbe gehört. Die Stadt ist berühmt für ihr Nachtleben, ihre Musikszene und jährliche Veranstaltungen wie die Berlinale."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_Berlin.svg/800px-Flag_of_Berlin.svg.png"
+  }
 }

@@ -18,9 +18,31 @@ body {
   overflow-x: hidden;
 }
 
+h1 {
+  font-size: 6rem;
+  margin-bottom: 1.8rem;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-bottom: 1.2rem;
+}
+
+h4 {
+  font-weight: 600;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
+ul {
+  list-style: none;
+}
+
 .container {
   margin: 0 auto;
-  padding: 0 3rem;
+  padding: 3rem;
   max-width: 130rem;
 }
 
@@ -48,4 +70,21 @@ body {
   font-weight: bold;
   text-anchor: middle;
   pointer-events: none;
+}
+
+/* DETAILS PAGE */
+.region-description {
+  font-size: 2rem;
+  font-weight: 450;
+}
+
+.region-holiday-list,
+.region-event-list {
+  margin-bottom: 2rem;
+}
+
+.region-holiday-list-item,
+.region-event-list-item {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
 }

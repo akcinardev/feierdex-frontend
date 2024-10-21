@@ -39,5 +39,43 @@
         "de": "Eine wichtige Handelsmesse für Bücher und Literatur, die Autoren und Verlage aus der ganzen Welt anzieht."
       }
     }
-  ]
+  ],
+  "info": {
+    "description": {
+      "en": "Sachsen, or Saxony, is a federal state located in eastern Germany, known for its rich cultural heritage, historic cities, and beautiful landscapes. It features a mix of baroque architecture, modern industries, and scenic nature, including the Elbe River and the Saxon Switzerland National Park.",
+      "de": "Sachsen ist ein Bundesland im Osten Deutschlands, das für sein reiches kulturelles Erbe, historische Städte und schöne Landschaften bekannt ist. Es zeichnet sich durch eine Mischung aus barocker Architektur, modernen Industrien und malerischer Natur aus, darunter die Elbe und der Nationalpark Sächsische Schweiz."
+    },
+    "capital": "Dresden",
+    "population": 4093000,
+    "area": "18450 km²",
+    "official_language": "German",
+    "major_cities": ["Dresden", "Leipzig", "Chemnitz", "Zwickau"],
+    "famous_landmarks": [
+      {
+        "en": "Dresden Frauenkirche",
+        "de": "Frauenkirche Dresden"
+      },
+      {
+        "en": "Zwinger Palace",
+        "de": "Zwinger"
+      },
+      {
+        "en": "Völkerschlachtdenkmal",
+        "de": "Völkerschlachtdenkmal"
+      },
+      {
+        "en": "Saxon Switzerland National Park",
+        "de": "Sächsische Schweiz"
+      }
+    ],
+    "economic_highlights": {
+      "en": "Sachsen has a diverse economy with strong sectors in manufacturing, high technology, and services. The region is renowned for its automotive industry, textiles, and is becoming a hub for startups and innovation.",
+      "de": "Sachsen hat eine vielfältige Wirtschaft mit starken Sektoren in der Industrie, Hochtechnologie und Dienstleistungen. Die Region ist bekannt für ihre Automobilindustrie, Textilien und entwickelt sich zu einem Zentrum für Startups und Innovation."
+    },
+    "cultural_aspects": {
+      "en": "Sachsen is rich in cultural traditions, famous for its music, art, and festivals. The state hosts the renowned Leipzig Gewandhaus Orchestra and the Dresden Music Festival, showcasing its vibrant cultural life.",
+      "de": "Sachsen hat eine reiche Kulturtradition, die für ihre Musik, Kunst und Festivals bekannt ist. Das Bundesland beherbergt das berühmte Gewandhausorchester Leipzig und das Dresdner Musikfestspiel, die das lebendige Kulturleben zeigen."
+    },
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Saxony.svg/800px-Flag_of_Saxony.svg.png"
+  }
 }
