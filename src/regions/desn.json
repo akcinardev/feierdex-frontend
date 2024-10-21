@@ -4,7 +4,119 @@
     "en": "Saxony",
     "de": "Sachsen"
   },
-  "holidays": [],
+  "regional_holidays": [],
+  "countrywide_holidays": [
+    {
+      "name": {
+        "en": "New Year's Day",
+        "de": "Neujahrstag"
+      },
+      "date": "2024-01-01",
+      "description": {
+        "en": "Celebration of the new year.",
+        "de": "Feier des neuen Jahres."
+      }
+    },
+    {
+      "name": {
+        "en": "Good Friday",
+        "de": "Karfreitag"
+      },
+      "date": "2024-03-29",
+      "description": {
+        "en": "A Christian holiday commemorating the crucifixion of Jesus.",
+        "de": "Ein christlicher Feiertag zur Erinnerung an die Kreuzigung Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Easter Sunday",
+        "de": "Ostersonntag"
+      },
+      "date": "2024-03-31",
+      "description": {
+        "en": "Celebration of the resurrection of Jesus.",
+        "de": "Feier der Auferstehung Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Labour Day",
+        "de": "Tag der Arbeit"
+      },
+      "date": "2024-05-01",
+      "description": {
+        "en": "A day to honor workers and their rights.",
+        "de": "Ein Tag zur Ehrung der Arbeiter und ihrer Rechte."
+      }
+    },
+    {
+      "name": {
+        "en": "Ascension Day",
+        "de": "Christi Himmelfahrt"
+      },
+      "date": "2024-05-09",
+      "description": {
+        "en": "Celebration of the ascension of Jesus to heaven.",
+        "de": "Feier der Himmelfahrt Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Whit Monday",
+        "de": "Pfingstmontag"
+      },
+      "date": "2024-05-20",
+      "description": {
+        "en": "A Christian holiday celebrated the day after Pentecost.",
+        "de": "Ein christlicher Feiertag, der am Tag nach Pfingsten gefeiert wird."
+      }
+    },
+    {
+      "name": {
+        "en": "Unity Day",
+        "de": "Tag der Deutschen Einheit"
+      },
+      "date": "2024-10-03",
+      "description": {
+        "en": "Celebration of German reunification.",
+        "de": "Feier der deutschen Wiedervereinigung."
+      }
+    },
+    {
+      "name": {
+        "en": "Reformation Day",
+        "de": "Reformationstag"
+      },
+      "date": "2024-10-31",
+      "description": {
+        "en": "Commemoration of the Protestant Reformation.",
+        "de": "Gedenktag der protestantischen Reformation."
+      }
+    },
+    {
+      "name": {
+        "en": "Christmas Day",
+        "de": "1. Weihnachtstag"
+      },
+      "date": "2024-12-25",
+      "description": {
+        "en": "Celebration of the birth of Jesus.",
+        "de": "Feier der Geburt Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Boxing Day",
+        "de": "2. Weihnachtstag"
+      },
+      "date": "2024-12-26",
+      "description": {
+        "en": "A day for family gatherings and additional celebrations.",
+        "de": "Ein Tag für Familientreffen und zusätzliche Feiern."
+      }
+    }
+  ],
   "events": [
     {
       "name": {
