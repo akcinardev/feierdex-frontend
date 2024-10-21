@@ -6,7 +6,7 @@ const LandingPage = () => {
     <div className="container--wide">
       <div className="grid">
         <LandingInfo />
-        <MainMap height="850" width="850" />
+        <MainMap height="750" width="750" />
       </div>
     </div>
   );
