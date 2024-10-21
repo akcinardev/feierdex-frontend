@@ -1,0 +1,44 @@
+{
+  "id": "DERP",
+  "name": {
+    "en": "Rhineland-Palatinate",
+    "de": "Rheinland-Pfalz"
+  },
+  "holidays": [
+    {
+      "name": {
+        "en": "Day of Prayer and Repentance",
+        "de": "Buß- und Bettag"
+      },
+      "date": "2024-11-21",
+      "description": {
+        "en": "A Protestant holiday of prayer and repentance observed in some regions.",
+        "de": "Ein protestantischer Feiertag des Gebets und der Buße, der in einigen Regionen beobachtet wird."
+      }
+    }
+  ],
+  "events": [
+    {
+      "name": {
+        "en": "Mainzer Sommerlichter",
+        "de": "Mainzer Sommerlichter"
+      },
+      "date": "2024-07-20",
+      "description": {
+        "en": "A summer festival in Mainz featuring light installations, music, and local cuisine.",
+        "de": "Ein Sommerfest in Mainz mit Lichtinstallationen, Musik und lokaler Küche."
+      }
+    },
+    {
+      "name": {
+        "en": "Wine Festival in Bad Dürkheim",
+        "de": "Wurstmarkt Bad Dürkheim"
+      },
+      "date": "2024-09-06",
+      "description": {
+        "en": "One of the largest wine festivals in Germany, held annually in Bad Dürkheim.",
+        "de": "Eines der größten Weinfeste in Deutschland, das jährlich in Bad Dürkheim stattfindet."
+      }
+    }
+  ]
+}

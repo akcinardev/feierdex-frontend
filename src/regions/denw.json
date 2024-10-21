@@ -1,0 +1,43 @@
+{
+  "id": "DENW",
+  "name": {
+    "en": "North Rhine-Westphalia",
+    "de": "Nordrhein-Westfalen"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Cologne Carnival",
+        "de": "Kölner Karneval"
+      },
+      "date": "2024-02-08",
+      "description": {
+        "en": "A large carnival celebration featuring parades, parties, and traditional costumes.",
+        "de": "Eine große Karnevalsfeier mit Umzügen, Partys und traditionellen Kostümen."
+      }
+    },
+    {
+      "name": {
+        "en": "Düsseldorf Christmas Market",
+        "de": "Düsseldorfer Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A festive market offering local crafts, food, and holiday entertainment.",
+        "de": "Ein festlicher Markt mit lokalen Handwerken, Essen und weihnachtlicher Unterhaltung."
+      }
+    },
+    {
+      "name": {
+        "en": "Münsterland Festival",
+        "de": "Münsterland Festival"
+      },
+      "date": "2024-06-14",
+      "description": {
+        "en": "A cultural festival celebrating the art and music of the Münsterland region.",
+        "de": "Ein Kulturfestival, das die Kunst und Musik der Region Münsterland feiert."
+      }
+    }
+  ]
+}

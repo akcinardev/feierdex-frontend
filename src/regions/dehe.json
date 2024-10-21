@@ -1,0 +1,43 @@
+{
+  "id": "DEHE",
+  "name": {
+    "en": "Hesse",
+    "de": "Hessen"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Frankfurt Book Fair",
+        "de": "Frankfurter Buchmesse"
+      },
+      "date": "2024-10-16",
+      "description": {
+        "en": "The world's largest book fair, featuring authors, publishers, and literary events.",
+        "de": "Die größte Buchmesse der Welt, die Autoren, Verlage und literarische Veranstaltungen präsentiert."
+      }
+    },
+    {
+      "name": {
+        "en": "Documenta",
+        "de": "Documenta"
+      },
+      "date": "2024-06-08",
+      "description": {
+        "en": "A contemporary art exhibition held every five years in Kassel.",
+        "de": "Eine zeitgenössische Kunstausstellung, die alle fünf Jahre in Kassel stattfindet."
+      }
+    },
+    {
+      "name": {
+        "en": "Wiesbaden Wine Festival",
+        "de": "Wiesbadener Weinfest"
+      },
+      "date": "2024-09-20",
+      "description": {
+        "en": "A festival celebrating local wines with tastings and live music.",
+        "de": "Ein Fest, das lokale Weine mit Verkostungen und Live-Musik feiert."
+      }
+    }
+  ]
+}

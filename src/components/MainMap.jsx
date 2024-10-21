@@ -1,11 +1,18 @@
 import { useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 
 const MainMap = ({ width = "900", height = "900" }) => {
+  const navigate = useNavigate();
+
   useEffect(() => {
     const paths = document.querySelectorAll("path");
 
     const handleClick = (e) => {
-      console.log(e.target.id);
+      const targetId = e.target.id.toString().toLowerCase();
+      if (targetId) {
+        // navigate(`/${targetId}`);
+        navigate(`/details`);
+      }
     };
 
     paths.forEach((path) => {
@@ -17,7 +24,7 @@ const MainMap = ({ width = "900", height = "900" }) => {
         path.removeEventListener("click", handleClick);
       });
     };
-  }, []);
+  }, [navigate]);
 
   return (
     <div className="main-map-div">

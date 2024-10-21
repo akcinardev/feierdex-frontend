@@ -1,0 +1,32 @@
+{
+  "id": "DEBB",
+  "name": {
+    "en": "Brandenburg",
+    "de": "Brandenburg"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Brandenburg Day",
+        "de": "Brandenburg-Tag"
+      },
+      "date": "2024-06-02",
+      "description": {
+        "en": "A celebration of the state's culture and history with various activities and exhibitions.",
+        "de": "Ein Fest zur Feier der Kultur und Geschichte des Bundeslandes mit verschiedenen Aktivitäten und Ausstellungen."
+      }
+    },
+    {
+      "name": {
+        "en": "Potsdam Film Festival",
+        "de": "Potsdam Filmfestival"
+      },
+      "date": "2024-11-10",
+      "description": {
+        "en": "A local film festival showcasing independent films and filmmakers.",
+        "de": "Ein lokales Filmfestival, das unabhängige Filme und Filmemacher präsentiert."
+      }
+    }
+  ]
+}

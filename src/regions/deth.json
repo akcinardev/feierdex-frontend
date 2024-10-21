@@ -1,0 +1,43 @@
+{
+  "id": "DETH",
+  "name": {
+    "en": "Thuringia",
+    "de": "Thüringen"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Erfurt Christmas Market",
+        "de": "Erfurter Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A historic Christmas market located in the heart of Erfurt, known for its festive atmosphere.",
+        "de": "Ein historischer Weihnachtsmarkt im Herzen von Erfurt, bekannt für seine festliche Atmosphäre."
+      }
+    },
+    {
+      "name": {
+        "en": "Weimar Arts Festival",
+        "de": "Weimarer Kunstfest"
+      },
+      "date": "2024-08-15",
+      "description": {
+        "en": "A festival celebrating the rich cultural heritage of Weimar with music, theater, and art.",
+        "de": "Ein Festival, das das reiche kulturelle Erbe von Weimar mit Musik, Theater und Kunst feiert."
+      }
+    },
+    {
+      "name": {
+        "en": "Rudolstadt Festival",
+        "de": "Rudolstadt Festival"
+      },
+      "date": "2024-07-04",
+      "description": {
+        "en": "A world music festival held annually in Rudolstadt, featuring diverse musical genres.",
+        "de": "Ein jährlich in Rudolstadt stattfindendes Weltmusikfestival, das vielfältige Musikgenres präsentiert."
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "DESN",
+  "name": {
+    "en": "Saxony",
+    "de": "Sachsen"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Dresden Christmas Market",
+        "de": "Dresdner Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "One of the oldest Christmas markets in Germany, known for its traditional crafts and food.",
+        "de": "Einer der ältesten Weihnachtsmärkte Deutschlands, bekannt für seine traditionellen Handwerke und Speisen."
+      }
+    },
+    {
+      "name": {
+        "en": "Dresden Music Festival",
+        "de": "Dresdner Musikfestspiele"
+      },
+      "date": "2024-05-10",
+      "description": {
+        "en": "An annual festival showcasing classical music performances in various venues across Dresden.",
+        "de": "Ein jährliches Festival, das klassische Musikaufführungen an verschiedenen Orten in Dresden präsentiert."
+      }
+    },
+    {
+      "name": {
+        "en": "Leipzig Book Fair",
+        "de": "Leipziger Buchmesse"
+      },
+      "date": "2024-03-14",
+      "description": {
+        "en": "A major trade fair for books and literature, attracting authors and publishers from around the world.",
+        "de": "Eine wichtige Handelsmesse für Bücher und Literatur, die Autoren und Verlage aus der ganzen Welt anzieht."
+      }
+    }
+  ]
+}

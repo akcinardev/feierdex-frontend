@@ -1,0 +1,66 @@
+{
+  "id": "DEBY",
+  "name": {
+    "en": "Bavaria",
+    "de": "Bayern"
+  },
+  "holidays": [
+    {
+      "name": {
+        "en": "Epiphany",
+        "de": "Heilige Drei Könige"
+      },
+      "date": "2024-01-06",
+      "description": {
+        "en": "Celebration of the visit of the Magi to the Christ child.",
+        "de": "Feier des Besuchs der Heiligen Drei Könige beim Christkind."
+      }
+    },
+    {
+      "name": {
+        "en": "Assumption Day",
+        "de": "Mariä Himmelfahrt"
+      },
+      "date": "2024-08-15",
+      "description": {
+        "en": "Celebration of the belief in the bodily ascension of the Virgin Mary to heaven.",
+        "de": "Feier des Glaubens an die leibliche Aufnahme der Jungfrau Maria in den Himmel."
+      }
+    },
+    {
+      "name": {
+        "en": "Reformation Day",
+        "de": "Reformationstag"
+      },
+      "date": "2024-10-31",
+      "description": {
+        "en": "Commemoration of the Protestant Reformation.",
+        "de": "Gedenken an die protestantische Reformation."
+      }
+    }
+  ],
+  "events": [
+    {
+      "name": {
+        "en": "Oktoberfest",
+        "de": "Oktoberfest"
+      },
+      "date": "2024-09-21",
+      "description": {
+        "en": "The world's largest beer festival held annually in Munich.",
+        "de": "Das größte Bierfest der Welt, das jährlich in München stattfindet."
+      }
+    },
+    {
+      "name": {
+        "en": "Bavarian Christmas Market",
+        "de": "Bayerischer Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "Traditional market featuring local crafts, food, and festive activities.",
+        "de": "Traditioneller Markt mit lokalen Handwerken, Essen und festlichen Aktivitäten."
+      }
+    }
+  ]
+}

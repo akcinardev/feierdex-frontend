@@ -1,0 +1,43 @@
+{
+  "id": "DEHH",
+  "name": {
+    "en": "Hamburg",
+    "de": "Hamburg"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Hamburg Port Anniversary",
+        "de": "Hafengeburtstag Hamburg"
+      },
+      "date": "2024-05-03",
+      "description": {
+        "en": "A celebration of Hamburg's port with ships, food, and music.",
+        "de": "Ein Fest des Hamburger Hafens mit Schiffen, Essen und Musik."
+      }
+    },
+    {
+      "name": {
+        "en": "Hamburg Christmas Market",
+        "de": "Hamburger Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A traditional market featuring local crafts, food, and festive activities.",
+        "de": "Ein traditioneller Markt mit lokalen Handwerken, Essen und festlichen Aktivitäten."
+      }
+    },
+    {
+      "name": {
+        "en": "Reeperbahn Festival",
+        "de": "Reeperbahn Festival"
+      },
+      "date": "2024-09-18",
+      "description": {
+        "en": "One of the largest club festivals in Europe, showcasing new music.",
+        "de": "Eines der größten Clubfestivals Europas, das neue Musik präsentiert."
+      }
+    }
+  ]
+}

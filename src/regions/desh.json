@@ -1,0 +1,43 @@
+{
+  "id": "DESH",
+  "name": {
+    "en": "Schleswig-Holstein",
+    "de": "Schleswig-Holstein"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Kiel Week",
+        "de": "Kieler Woche"
+      },
+      "date": "2024-06-01",
+      "description": {
+        "en": "The largest sailing event in the world, featuring regattas, music, and cultural activities.",
+        "de": "Das größte Segelereignis der Welt mit Regatten, Musik und kulturellen Aktivitäten."
+      }
+    },
+    {
+      "name": {
+        "en": "Lübeck Christmas Market",
+        "de": "Lübecker Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A traditional Christmas market known for its medieval charm and local delicacies.",
+        "de": "Ein traditioneller Weihnachtsmarkt, der für seinen mittelalterlichen Charme und lokale Köstlichkeiten bekannt ist."
+      }
+    },
+    {
+      "name": {
+        "en": "Schleswig-Holstein Music Festival",
+        "de": "Schleswig-Holstein Musik Festival"
+      },
+      "date": "2024-07-05",
+      "description": {
+        "en": "An annual festival featuring classical music concerts held in various locations throughout the region.",
+        "de": "Ein jährliches Festival mit klassischen Konzerten, die an verschiedenen Orten in der Region stattfinden."
+      }
+    }
+  ]
+}

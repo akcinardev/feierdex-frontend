@@ -1,0 +1,43 @@
+{
+  "id": "DEBE",
+  "name": {
+    "en": "Berlin",
+    "de": "Berlin"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Berlin International Film Festival",
+        "de": "Internationale Filmfestspiele Berlin"
+      },
+      "date": "2024-02-15",
+      "description": {
+        "en": "One of the most prestigious film festivals in the world, showcasing international films.",
+        "de": "Eines der angesehensten Filmfestivals der Welt, das internationale Filme präsentiert."
+      }
+    },
+    {
+      "name": {
+        "en": "Fête de la Musique",
+        "de": "Fête de la Musique"
+      },
+      "date": "2024-06-21",
+      "description": {
+        "en": "A music festival celebrating music in all its forms, with free concerts throughout the city.",
+        "de": "Ein Musikfestival, das Musik in all ihren Formen feiert, mit kostenlosen Konzerten in der ganzen Stadt."
+      }
+    },
+    {
+      "name": {
+        "en": "Berlin Art Week",
+        "de": "Berlin Art Week"
+      },
+      "date": "2024-09-11",
+      "description": {
+        "en": "An annual event that showcases contemporary art across galleries and institutions.",
+        "de": "Eine jährliche Veranstaltung, die zeitgenössische Kunst in Galerien und Institutionen zeigt."
+      }
+    }
+  ]
+}

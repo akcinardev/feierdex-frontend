@@ -1,0 +1,43 @@
+{
+  "id": "DEST",
+  "name": {
+    "en": "Saxony-Anhalt",
+    "de": "Sachsen-Anhalt"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Wittenberg Reformation Festival",
+        "de": "Wittenberger Reformationsfest"
+      },
+      "date": "2024-10-31",
+      "description": {
+        "en": "A festival celebrating the Reformation in the historic city of Wittenberg.",
+        "de": "Ein Fest zur Feier der Reformation in der historischen Stadt Wittenberg."
+      }
+    },
+    {
+      "name": {
+        "en": "Magdeburg Christmas Market",
+        "de": "Magdeburger Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A traditional Christmas market featuring local crafts, food, and festive entertainment.",
+        "de": "Ein traditioneller Weihnachtsmarkt mit lokalen Handwerken, Essen und festlicher Unterhaltung."
+      }
+    },
+    {
+      "name": {
+        "en": "Quedlinburg Christmas Market",
+        "de": "Quedlinburger Weihnachtsmarkt"
+      },
+      "date": "2024-11-29",
+      "description": {
+        "en": "A charming Christmas market set in the medieval town of Quedlinburg.",
+        "de": "Ein bezaubernder Weihnachtsmarkt in der mittelalterlichen Stadt Quedlinburg."
+      }
+    }
+  ]
+}

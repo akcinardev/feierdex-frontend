@@ -1,0 +1,43 @@
+{
+  "id": "DESL",
+  "name": {
+    "en": "Saarland",
+    "de": "Saarland"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Saarbrücken Christmas Market",
+        "de": "Saarbrücker Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A festive market featuring local crafts, food, and holiday entertainment.",
+        "de": "Ein festlicher Markt mit lokalen Handwerken, Essen und weihnachtlicher Unterhaltung."
+      }
+    },
+    {
+      "name": {
+        "en": "Saarland Wine Festival",
+        "de": "Saarland Weinfest"
+      },
+      "date": "2024-09-13",
+      "description": {
+        "en": "A celebration of local wines with tastings, food, and live music.",
+        "de": "Eine Feier der lokalen Weine mit Verkostungen, Essen und Live-Musik."
+      }
+    },
+    {
+      "name": {
+        "en": "Festival of Cultures",
+        "de": "Festival der Kulturen"
+      },
+      "date": "2024-06-01",
+      "description": {
+        "en": "An event showcasing the diverse cultures present in Saarland through food, music, and dance.",
+        "de": "Eine Veranstaltung, die die verschiedenen Kulturen im Saarland durch Essen, Musik und Tanz präsentiert."
+      }
+    }
+  ]
+}

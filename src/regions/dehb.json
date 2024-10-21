@@ -1,0 +1,32 @@
+{
+  "id": "DEHB",
+  "name": {
+    "en": "Bremen",
+    "de": "Bremen"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Bremer Freimarkt",
+        "de": "Bremer Freimarkt"
+      },
+      "date": "2024-10-18",
+      "description": {
+        "en": "A traditional funfair and market held annually in Bremen.",
+        "de": "Ein traditioneller Jahrmarkt und Markt, der jährlich in Bremen stattfindet."
+      }
+    },
+    {
+      "name": {
+        "en": "Bremen Christmas Market",
+        "de": "Bremer Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A festive market featuring crafts, food, and holiday decorations.",
+        "de": "Ein festlicher Markt mit Kunsthandwerk, Essen und Weihnachtsdekorationen."
+      }
+    }
+  ]
+}

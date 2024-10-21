@@ -1,0 +1,43 @@
+{
+  "id": "DEMV",
+  "name": {
+    "en": "Mecklenburg-Vorpommern",
+    "de": "Mecklenburg-Vorpommern"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Rostock Hanse Sail",
+        "de": "Hanse Sail Rostock"
+      },
+      "date": "2024-08-08",
+      "description": {
+        "en": "A maritime festival celebrating the Hanseatic League with tall ships and cultural events.",
+        "de": "Ein maritimes Festival zur Feier der Hanse mit Großseglern und kulturellen Veranstaltungen."
+      }
+    },
+    {
+      "name": {
+        "en": "Usedom Beach Volleyball Grand Slam",
+        "de": "Usedom Beachvolleyball Grand Slam"
+      },
+      "date": "2024-07-03",
+      "description": {
+        "en": "An international beach volleyball tournament held on Usedom Island.",
+        "de": "Ein internationales Beachvolleyballturnier, das auf der Insel Usedom stattfindet."
+      }
+    },
+    {
+      "name": {
+        "en": "Mecklenburg-Vorpommern Festival of Arts",
+        "de": "Kunstfest Mecklenburg-Vorpommern"
+      },
+      "date": "2024-09-05",
+      "description": {
+        "en": "An arts festival showcasing music, theater, and visual arts across the region.",
+        "de": "Ein Kunstfestival, das Musik, Theater und bildende Kunst in der Region präsentiert."
+      }
+    }
+  ]
+}

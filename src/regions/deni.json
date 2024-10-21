@@ -1,0 +1,32 @@
+{
+  "id": "DENI",
+  "name": {
+    "en": "Lower Saxony",
+    "de": "Niedersachsen"
+  },
+  "holidays": [],
+  "events": [
+    {
+      "name": {
+        "en": "Maschsee Lake Festival",
+        "de": "Maschsee Fest"
+      },
+      "date": "2024-08-09",
+      "description": {
+        "en": "A summer festival featuring music, food, and activities around Maschsee Lake in Hanover.",
+        "de": "Ein Sommerfest mit Musik, Essen und Aktivitäten rund um den Maschsee in Hannover."
+      }
+    },
+    {
+      "name": {
+        "en": "Hannover Christmas Market",
+        "de": "Hannover Weihnachtsmarkt"
+      },
+      "date": "2024-11-27",
+      "description": {
+        "en": "A festive market with local crafts, food, and holiday decorations.",
+        "de": "Ein festlicher Markt mit Kunsthandwerk, Essen und Weihnachtsdekorationen."
+      }
+    }
+  ]
+}
