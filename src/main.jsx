@@ -11,8 +11,8 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "/details",
-    element: <DetailPage regionCode="debe" />,
+    path: "/regions/:regionCode",
+    element: <DetailPage />,
   },
 ]);
 

@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
 
-const DetailPage = ({ regionCode }) => {
+const DetailPage = () => {
+  const { regionCode } = useParams();
   const [regionData, setRegionData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -30,7 +32,19 @@ const DetailPage = ({ regionCode }) => {
 
   return (
     <div>
-      <h1>{regionData.name.en} Region</h1>
+      <h1>{regionData.name.de} Region</h1>
+      <h2>Holidays</h2>
+      <ul>
+        {regionData.holidays.map((holiday, i) => {
+          return <li key={i}>{holiday.name.de}</li>;
+        })}
+      </ul>
+      <h2>Events</h2>
+      <ul>
+        {regionData.events.map((event, i) => {
+          return <li key={i}>{event.name.de}</li>;
+        })}
+      </ul>
     </div>
   );
 };
