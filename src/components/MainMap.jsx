@@ -1,4 +1,24 @@
+import { useEffect } from "react";
+
 const MainMap = ({ width = "900", height = "900" }) => {
+  useEffect(() => {
+    const paths = document.querySelectorAll("path");
+
+    const handleClick = (e) => {
+      console.log(e.target.id);
+    };
+
+    paths.forEach((path) => {
+      path.addEventListener("click", handleClick);
+    });
+
+    return () => {
+      paths.forEach((path) => {
+        path.removeEventListener("click", handleClick);
+      });
+    };
+  }, []);
+
   return (
     <div className="main-map-div">
       <svg
