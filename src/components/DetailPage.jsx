@@ -77,6 +77,7 @@ const DetailPage = () => {
         <div className="region-holiday-event-info">
           <h2>Feiertage</h2>
           <h3>Regionale</h3>
+
           <ul className="region-holiday-list">
             {regionData.regional_holidays.map((holiday, i) => {
               return (

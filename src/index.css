@@ -160,6 +160,12 @@ header p {
   text-align: center;
 }
 
+.region-holiday-list,
+.countrywide-holiday-list,
+.region-event-list {
+  margin-bottom: 7rem;
+}
+
 .region-holiday-list li,
 .countrywide-holiday-list li,
 .region-event-list li {
@@ -169,4 +175,14 @@ header p {
 .holiday-title,
 .event-title {
   margin-bottom: 1.2rem;
+}
+
+.region-holiday-event-info h2 {
+  font-size: 4.2rem;
+  margin-bottom: 5rem;
+}
+
+.region-holiday-event-info h3 {
+  font-size: 3.2rem;
+  margin-bottom: 3rem;
 }
