@@ -1,7 +1,7 @@
 const LandingInfo = () => {
   return (
     <div>
-      <h1>Wählen Sie eine Region zum Starten</h1>
+      <h1 className="landing-info-text">Wählen Sie eine Region zum Starten</h1>
     </div>
   );
 };
