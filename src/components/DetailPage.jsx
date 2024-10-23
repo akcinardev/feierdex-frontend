@@ -1,6 +1,10 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Header from "./Header";
+import RegionHeading from "./RegionHeading";
+import RegionInfo from "./RegionInfo";
+import RegionDetail from "./RegionDetail";
+import RegionHolidayEvent from "./RegionHolidayEvent";
 
 const DetailPage = () => {
   const { regionCode } = useParams();
@@ -25,7 +29,7 @@ const DetailPage = () => {
   }, [regionCode]);
 
   if (loading) {
-    return <div>Loading...</div>;
+    return <div className="container">Loading...</div>;
   }
 
   if (error) {
@@ -36,11 +40,14 @@ const DetailPage = () => {
     <>
       <Header />
       <div className="container">
-        <h1 className="region-name">{regionData.name.de}</h1>
+        {/* <div className="region-heading">
+          <h1 className="region-name">{regionData.name.de}</h1>
 
-        <img src={regionData.info.flag_url} className="region-flag"></img>
+          <img src={regionData.info.flag_url} className="region-flag"></img>
+        </div> */}
+        <RegionHeading regionData={regionData} />
 
-        <div className="region-info">
+        {/* <div className="region-info">
           <p className="region-capital">
             <strong>Hauptstadt:</strong> {regionData.info.capital}
           </p>
@@ -60,9 +67,10 @@ const DetailPage = () => {
               return landmark.en + ", ";
             })}
           </p>
-        </div>
+        </div> */}
+        <RegionInfo regionData={regionData} />
 
-        <div className="region-detail-info">
+        {/* <div className="region-detail-info">
           <p className="region-description">{regionData.info.description.de}</p>
           <br />
           <p className="region-economic">
@@ -72,9 +80,10 @@ const DetailPage = () => {
           <p className="region-cultural">
             {regionData.info.cultural_aspects.de}
           </p>
-        </div>
+        </div> */}
+        <RegionDetail regionData={regionData} />
 
-        <div className="region-holiday-event-info">
+        {/* <div className="region-holiday-event-info">
           <h2>Feiertage</h2>
           <h3>Regionale</h3>
 
@@ -130,7 +139,8 @@ const DetailPage = () => {
               );
             })}
           </ul>
-        </div>
+        </div> */}
+        <RegionHolidayEvent regionData={regionData} />
       </div>
     </>
   );
