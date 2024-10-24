@@ -48,9 +48,13 @@ ul {
 
 /* HEADER */
 header {
-  background-color: #597d5e;
+  background-color: #acbeaf;
   padding: 1rem;
   color: #fff;
+}
+
+header img {
+  height: 4rem;
 }
 
 header h1 {
