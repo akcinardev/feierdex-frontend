@@ -1,3 +1,5 @@
+import DateFormatter from "../utils/dateFormatter";
+
 const CountrywideHolidays = ({ regionData }) => {
   return (
     <div>
@@ -9,7 +11,7 @@ const CountrywideHolidays = ({ regionData }) => {
               <div>
                 <div className="holiday-title">
                   <h4 className="region-holiday-name">
-                    {holiday.name.de} ({holiday.date})
+                    {holiday.name.de} ({DateFormatter(holiday.date)})
                   </h4>
                 </div>
                 <p>{holiday.description.de}</p>

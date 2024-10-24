@@ -1,3 +1,5 @@
+import DateFormatter from "../utils/dateFormatter";
+
 const RegionalEvent = ({ regionData }) => {
   return (
     <div>
@@ -9,7 +11,7 @@ const RegionalEvent = ({ regionData }) => {
               <div>
                 <div className="event-title">
                   <h4 className="region-event-name">
-                    {event.name.de} ({event.date})
+                    {event.name.de} ({DateFormatter(event.date)})
                   </h4>
                 </div>
                 <p>{event.description.de}</p>
