@@ -10,7 +10,6 @@ const MainMap = ({ width = "900", height = "900" }) => {
     const handleClick = (e) => {
       const targetId = e.target.id.toString().toLowerCase();
       if (targetId) {
-        // navigate(`/${targetId}`);
         navigate(`/${targetId}`);
       }
     };
@@ -30,7 +29,7 @@ const MainMap = ({ width = "900", height = "900" }) => {
     <div className="main-map-div">
       <svg
         baseProfile="tiny"
-        fill="#6f9c76"
+        fill="#b38f00"
         stroke="#ffffff"
         strokeLinecap="round"
         strokeLinejoin="round"

@@ -48,7 +48,7 @@ ul {
 
 /* HEADER */
 header {
-  background-color: #acbeaf;
+  background-color: #ddd;
   padding: 1rem;
   color: #fff;
 }
@@ -91,7 +91,7 @@ header p {
 }
 
 .region-path:hover {
-  fill: #597d5e;
+  fill: #806600;
   cursor: pointer;
   /* transform: scale(1.007); */
 }
@@ -114,6 +114,7 @@ header p {
 }
 
 .landing-info-text {
+  color: #6f0000;
   font-size: 6rem;
   text-align: end;
 }
