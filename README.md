@@ -1,8 +1,32 @@
-# React + Vite
+# FeierDex
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FeierDex is a web application that provides information about the 16 states of Germany, including regional and nationwide holidays, as well as regional events. Users can select a region by interacting with a map of Germany and view specific information about the chosen state.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interactive map of Germany on the landing page.
+- View detailed information about regional and nationwide holidays for each state.
+- Discover regional events for the selected state.
+- Smooth navigation using React Router.
+- Efficient state management with `useState` and `useEffect`.
+
+## Tech Stack
+
+- **Frontend**: React, React Router
+- **State Management**: `useState`, `useEffect`
+- **Styling**: CSS
+- **Data**: Static JSON file for holidays and events
+
+## Usage
+
+- On the landing page, you will see an interactive map of Germany.
+- Click on any state to view detailed information about its regional holidays and events.
+- Use the navigation to switch between different states or go back to the home page.
+
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
