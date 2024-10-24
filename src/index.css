@@ -165,20 +165,15 @@ header p {
   text-align: center;
 }
 
-.region-holiday-list,
-.countrywide-holiday-list,
-.region-event-list {
+.special-day-list {
   margin-bottom: 7rem;
 }
 
-.region-holiday-list li,
-.countrywide-holiday-list li,
-.region-event-list li {
+.special-day-list li {
   margin-bottom: 3rem;
 }
 
-.holiday-title,
-.event-title {
+.special-day-title {
   margin-bottom: 1.2rem;
 }
 

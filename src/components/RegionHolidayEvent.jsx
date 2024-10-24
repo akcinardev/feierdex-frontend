@@ -1,6 +1,4 @@
-import RegionalHolidays from "./RegionalHolidays";
-import CountrywideHolidays from "./CountrywideHolidays";
-import RegionalEvent from "./RegionalEvent";
+import SpecialDays from "./SpecialDays";
 
 const RegionHolidayEvent = ({ regionData }) => {
   return (
@@ -8,15 +6,24 @@ const RegionHolidayEvent = ({ regionData }) => {
       <h2>Feiertage</h2>
 
       {regionData.regional_holidays.length > 0 && (
-        <RegionalHolidays regionData={regionData} />
+        <SpecialDays
+          regionData={regionData.regional_holidays}
+          title={"Regionale"}
+        />
       )}
 
       {regionData.countrywide_holidays.length > 0 && (
-        <CountrywideHolidays regionData={regionData} />
+        <SpecialDays
+          regionData={regionData.countrywide_holidays}
+          title={"Bundesfeiertage"}
+        />
       )}
 
       {regionData.events.length > 0 && (
-        <RegionalEvent regionData={regionData} />
+        <SpecialDays
+          regionData={regionData.events}
+          title={"Regionale Veranstaltungen"}
+        />
       )}
     </div>
   );
