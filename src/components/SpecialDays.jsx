@@ -4,12 +4,12 @@ function formatDate(dateString) {
   return moment(dateString).format("DD.MM.YYYY");
 }
 
-const SpecialDays = ({ regionData, title }) => {
+const SpecialDays = ({ value, title }) => {
   return (
     <div>
       <h3>{title}</h3>
       <ul className="special-day-list">
-        {regionData.map((item, i) => {
+        {value.map((item, i) => {
           return (
             <li key={i} className="special-day-list-item">
               <div>
