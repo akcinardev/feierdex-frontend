@@ -48,7 +48,7 @@ ul {
 
 /* HEADER */
 header {
-  background-color: #ddd;
+  background-color: #7d1a1a;
   padding: 1rem;
   color: #fff;
 }
@@ -190,4 +190,28 @@ header p {
 .region-holiday-event-info h3 {
   font-size: 3.2rem;
   margin-bottom: 3rem;
+}
+
+/************ FOOTER ************/
+footer {
+  background-color: #ddd;
+  padding: 1rem;
+  color: #fff;
+}
+
+.footer-logo img {
+  height: 3rem;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.copyright {
+  font-size: 1.2rem;
+  color: #6f0000;
+  font-weight: 500;
 }

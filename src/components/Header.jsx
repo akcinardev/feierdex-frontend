@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header>
       <Link to="/">
-        <img src="assets/logo.png" alt="feierdex logo"></img>
+        <img src="assets/logo3.png" alt="feierdex logo"></img>
       </Link>
     </header>
   );

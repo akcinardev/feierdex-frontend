@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Header from "./Header";
+import Footer from "./Footer";
 import RegionHeading from "./RegionHeading";
 import RegionInfo from "./RegionInfo";
 import RegionDetail from "./RegionDetail";
@@ -46,6 +47,7 @@ const DetailPage = () => {
         <RegionDetail regionData={regionData} />
         <RegionHolidayEvent regionData={regionData} />
       </div>
+      <Footer />
     </>
   );
 };
