@@ -2,6 +2,10 @@
 
 FeierDex is a web application that provides information about the 16 states of Germany, including regional and nationwide holidays, as well as regional events. Users can select a region by interacting with a map of Germany and view specific information about the chosen state.
 
+Here you can visit live demo.
+
+https://feierdex-akcdev.netlify.app/
+
 ## Features
 
 - Interactive map of Germany on the landing page.
