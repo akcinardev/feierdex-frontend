@@ -17,7 +17,7 @@ const RegionInfo = ({ regionData }) => {
       <p className="region-landmarks">
         <strong>Berühmte Sehenswürdigkeiten:</strong>{" "}
         {regionData.info.famous_landmarks.map((landmark) => {
-          return landmark.en + ", ";
+          return landmark.de + ", ";
         })}
       </p>
     </div>
