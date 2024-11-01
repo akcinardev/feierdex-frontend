@@ -4,7 +4,41 @@
     "en": "Brandenburg",
     "de": "Brandenburg"
   },
-  "regional_holidays": [],
+  "regional_holidays": [
+    {
+      "name": {
+        "en": "Easter Sunday",
+        "de": "Ostersonntag"
+      },
+      "date": "2024-03-31",
+      "description": {
+        "en": "Celebration of the resurrection of Jesus.",
+        "de": "Feier der Auferstehung Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Whit Sunday",
+        "de": "Pfingstsonntag"
+      },
+      "date": "2024-05-19",
+      "description": {
+        "en": "Celebration of the descent of the Holy Spirit upon the apostles.",
+        "de": "Feier der Herabkunft des Heiligen Geistes auf die Apostel."
+      }
+    },
+    {
+      "name": {
+        "en": "Reformation Day",
+        "de": "Reformationstag"
+      },
+      "date": "2024-10-31",
+      "description": {
+        "en": "Commemoration of the beginning of the Protestant Reformation.",
+        "de": "Gedenktag an den Beginn der protestantischen Reformation."
+      }
+    }
+  ],
   "countrywide_holidays": [
     {
       "name": {
@@ -30,24 +64,13 @@
     },
     {
       "name": {
-        "en": "Easter Sunday",
-        "de": "Ostersonntag"
+        "en": "Easter Monday",
+        "de": "Ostermontag"
       },
-      "date": "2024-03-31",
+      "date": "2024-04-01",
       "description": {
         "en": "Celebration of the resurrection of Jesus.",
         "de": "Feier der Auferstehung Jesu."
-      }
-    },
-    {
-      "name": {
-        "en": "Labour Day",
-        "de": "Tag der Arbeit"
-      },
-      "date": "2024-05-01",
-      "description": {
-        "en": "A day to honor workers and their rights.",
-        "de": "Ein Tag zur Ehrung der Arbeiter und ihrer Rechte."
       }
     },
     {
@@ -74,24 +97,24 @@
     },
     {
       "name": {
-        "en": "Unity Day",
+        "en": "Labour Day",
+        "de": "Tag der Arbeit"
+      },
+      "date": "2024-05-01",
+      "description": {
+        "en": "A day to honor workers and their rights.",
+        "de": "Ein Tag zur Ehrung der Arbeiter und ihrer Rechte."
+      }
+    },
+    {
+      "name": {
+        "en": "Day of German Unity",
         "de": "Tag der Deutschen Einheit"
       },
       "date": "2024-10-03",
       "description": {
         "en": "Celebration of German reunification.",
         "de": "Feier der deutschen Wiedervereinigung."
-      }
-    },
-    {
-      "name": {
-        "en": "Reformation Day",
-        "de": "Reformationstag"
-      },
-      "date": "2024-10-31",
-      "description": {
-        "en": "Commemoration of the Protestant Reformation.",
-        "de": "Gedenktag der protestantischen Reformation."
       }
     },
     {
