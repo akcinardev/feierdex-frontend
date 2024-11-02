@@ -4,7 +4,52 @@
     "en": "Hesse",
     "de": "Hessen"
   },
-  "regional_holidays": [],
+  "regional_holidays": [
+    {
+      "name": {
+        "en": "Easter Sunday",
+        "de": "Ostersonntag"
+      },
+      "date": "2024-03-31",
+      "description": {
+        "en": "Celebration of the resurrection of Jesus.",
+        "de": "Feier der Auferstehung Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Corpus Christi",
+        "de": "Fronleichnam"
+      },
+      "date": "2024-05-30",
+      "description": {
+        "en": "A feast celebrating the presence of the body of Christ in the Eucharist.",
+        "de": "Ein Fest zur Feier der Gegenwart des Leibes Christi in der Eucharistie."
+      }
+    },
+    {
+      "name": {
+        "en": "Reformation Day",
+        "de": "Reformationstag"
+      },
+      "date": "2024-10-31",
+      "description": {
+        "en": "Commemoration of the beginning of the Protestant Reformation.",
+        "de": "Gedenktag an den Beginn der protestantischen Reformation."
+      }
+    },
+    {
+      "name": {
+        "en": "All Saints' Day",
+        "de": "Allerheiligentag"
+      },
+      "date": "2024-11-01",
+      "description": {
+        "en": "A day to honor all saints, known and unknown.",
+        "de": "Ein Tag zur Ehrung aller Heiligen, bekannt und unbekannt."
+      }
+    }
+  ],
   "countrywide_holidays": [
     {
       "name": {

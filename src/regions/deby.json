@@ -18,13 +18,35 @@
     },
     {
       "name": {
+        "en": "Easter Sunday",
+        "de": "Ostersonntag"
+      },
+      "date": "2024-03-31",
+      "description": {
+        "en": "Celebration of the resurrection of Jesus.",
+        "de": "Feier der Auferstehung Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Corpus Christi",
+        "de": "Fronleichnam"
+      },
+      "date": "2024-05-30",
+      "description": {
+        "en": "A feast celebrating the presence of the body of Christ in the Eucharist.",
+        "de": "Ein Fest zur Feier der Gegenwart des Leibes Christi in der Eucharistie."
+      }
+    },
+    {
+      "name": {
         "en": "Assumption Day",
         "de": "Mariä Himmelfahrt"
       },
       "date": "2024-08-15",
       "description": {
-        "en": "Celebration of the belief in the bodily ascension of the Virgin Mary to heaven.",
-        "de": "Feier des Glaubens an die leibliche Aufnahme der Jungfrau Maria in den Himmel."
+        "en": "Celebration of the assumption of the Virgin Mary into heaven.",
+        "de": "Feier der Aufnahme der Jungfrau Maria in den Himmel."
       }
     },
     {
@@ -34,19 +56,19 @@
       },
       "date": "2024-10-31",
       "description": {
-        "en": "Commemoration of the Protestant Reformation.",
-        "de": "Gedenken an die protestantische Reformation."
+        "en": "Commemoration of the beginning of the Protestant Reformation.",
+        "de": "Gedenktag an den Beginn der protestantischen Reformation."
       }
     },
     {
       "name": {
         "en": "All Saints' Day",
-        "de": "Allerheiligen"
+        "de": "Allerheiligentag"
       },
       "date": "2024-11-01",
       "description": {
-        "en": "A Christian holiday honoring all saints.",
-        "de": "Ein christlicher Feiertag zu Ehren aller Heiligen."
+        "en": "A day to honor all saints, known and unknown.",
+        "de": "Ein Tag zur Ehrung aller Heiligen, bekannt und unbekannt."
       }
     }
   ],

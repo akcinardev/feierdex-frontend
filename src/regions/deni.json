@@ -4,7 +4,30 @@
     "en": "Lower Saxony",
     "de": "Niedersachsen"
   },
-  "regional_holidays": [],
+  "regional_holidays": [
+    {
+      "name": {
+        "en": "Easter Sunday",
+        "de": "Ostersonntag"
+      },
+      "date": "2024-03-31",
+      "description": {
+        "en": "Celebration of the resurrection of Jesus.",
+        "de": "Feier der Auferstehung Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Reformation Day",
+        "de": "Reformationstag"
+      },
+      "date": "2024-10-31",
+      "description": {
+        "en": "Commemoration of the beginning of the Protestant Reformation.",
+        "de": "Gedenktag an den Beginn der protestantischen Reformation."
+      }
+    }
+  ],
   "countrywide_holidays": [
     {
       "name": {

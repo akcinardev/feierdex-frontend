@@ -4,7 +4,41 @@
     "en": "Hamburg",
     "de": "Hamburg"
   },
-  "regional_holidays": [],
+  "regional_holidays": [
+    {
+      "name": {
+        "en": "Easter Sunday",
+        "de": "Ostersonntag"
+      },
+      "date": "2024-03-31",
+      "description": {
+        "en": "Celebration of the resurrection of Jesus.",
+        "de": "Feier der Auferstehung Jesu."
+      }
+    },
+    {
+      "name": {
+        "en": "Reformation Day",
+        "de": "Reformationstag"
+      },
+      "date": "2024-10-31",
+      "description": {
+        "en": "Commemoration of the beginning of the Protestant Reformation.",
+        "de": "Gedenktag an den Beginn der protestantischen Reformation."
+      }
+    },
+    {
+      "name": {
+        "en": "Day of Mourning",
+        "de": "Volkstrauertag"
+      },
+      "date": "2024-11-17",
+      "description": {
+        "en": "A day of remembrance for those who died in war and violence.",
+        "de": "Ein Tag des Gedenkens an die im Krieg und in der Gewalt gestorbenen Menschen."
+      }
+    }
+  ],
   "countrywide_holidays": [
     {
       "name": {
