@@ -12,10 +12,10 @@ const RegionHolidayEvent = ({ regionData }) => {
     <div className="region-holiday-event-info">
       <h2>Feiertage</h2>
 
-      {data.map((item) => {
+      {data.map((item, i) => {
         return (
           item.value.length > 0 && (
-            <SpecialDays title={item.title} value={item.value} />
+            <SpecialDays key={i} title={item.title} value={item.value} />
           )
         );
       })}

@@ -1,0 +1,26 @@
+@media (max-width: 48em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 35em) {
+  html {
+    font-size: 30%;
+  }
+
+  .landing-page-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10rem;
+  }
+
+  .main-map-div svg {
+    height: 100%;
+    width: 100%;
+  }
+
+  .landing-info-text {
+    text-align: center;
+  }
+}
